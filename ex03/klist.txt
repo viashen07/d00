@@ -1,0 +1,5 @@
+Credentials cache: API:16991
+        Principal: vgovende@42.FR
+
+  Issued                Expires               Principal
+Feb  1 12:56:08 2016  Feb  8 12:55:50 2016  krbtgt/42.FR@42.FR
